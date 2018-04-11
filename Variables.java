@@ -1,6 +1,6 @@
 public class Variables{
 	int id=11;
-	String name = " Сидоров Иван иванович ";
+	String name = " Сидоров Иван Вованович ";
 	int age = 50;
 	public static void main(String[] args){
 		Variables variables = new Variables();

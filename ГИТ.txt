@@ -1,0 +1,39 @@
+GeekBrains
+Git. Быстрый старт.
+
+
+
+Git. Быстрый старт. Базовые операции. Урок 2
+
+1. Clone(клонировать) - копирование (получение) удаленного репозитория в локальный (выполняется единоразово всеми участниками разработки, по мере подключения к проекту).
+2. Commit(вводить в дело) - сохранение (передача) изменений в локальном репозитории.
+3. Push(толчок. толкать. задвинуть) - передача (отправка) изменений в удаленный репозиторий
+4. Pull(вытащить) - получение изменений из удаленного репозитория в локальный репозиторий на удаленный компьютер.
+
+
+Git. Быстрый старт. Откат изменений кода. Урок 3
+
+discard(отвергать) - 
+
+
+
+
+
+
+
+
+
+Professional Guides
+
+Managing Projects
+
+Software dewelopment is filled with specialized tools and processes
+
+But managing software dewelopment is a unique job.
+
+And it is as much about people as it is about processes.
+
+Taking in a broad view of project to understand how all of the pieces connect,
+and contribute to bigger 
+
+

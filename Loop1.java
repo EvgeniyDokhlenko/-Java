@@ -22,6 +22,10 @@ public class Loop1{
 			System.out.println(count + "  count - במכרו 0");
 					for(int count1 = 0; count1 < 10; count1++){
 					System.out.println(count1 + "     count - לוםüרו 10");
+						if(count1<5) 
+							System.out.println(count1 + "  count1 לוםüרו 5");
+						else System.out.println(count1 + "  count1 במכüרו 5");
+						
 					}
 		}		
 	}
